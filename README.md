@@ -53,10 +53,8 @@
 -   Add background cache cleanup policies
 -   Improve retry logic with exponential backoff
 -   Add full offline feed persistence (Swift Data / Core Data)
--   Improve observability (logging, metrics, tracing)
 -   Add UI performance monitoring
 -   Expand automated test coverage (unit + integration + UI tests)
--   Improve accessibility and dynamic type support
 -   Add DI library e.g. Factory, Swinject to manage Dependency Injection
 -   Add CI/CD using Fastlane and Github actions. Dependent also on a paid Apple Developer account
 
