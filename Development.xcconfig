@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  VideoFeedTask
+//
+//  Created by DIGITAL VENTURES on 10/02/2026.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+BASE_URL = https:/$()/api.pexels.com
